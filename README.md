@@ -13,7 +13,7 @@ I care about evaluation done right: no data leakage, honest baselines, and stati
 | [Ensembles for data streams](https://github.com/larissa-acosta/ml-portfolio/tree/main/projects/stream-ensembles) | CNPq research: six ensemble algorithms under concept drift on 34 streams, with MOA. Presented orally at SEMITI 2025 ([abstract in the proceedings](https://semiti.pucpr.br/semiti/wp-content/uploads/sites/3/2026/06/semiti-2025.pdf#page=109), [SEMITI editions](https://semiti.pucpr.br/semiti/edicoes-anteriores/)) |
 | [Point cloud density benchmark](https://github.com/larissa-acosta/point-cloud-density-classification) | 3 samplers × 4 models × 2 datasets: half the points keeps accuracy within about 3 points |
 | [AI-generated image detection](https://github.com/larissa-acosta/ml-portfolio/tree/main/projects/ai-generated-image-detection) | *In progress.* Team project: classical features vs. deep learning on GenImage |
-| [Portuguese RAG over Brazilian digital law](https://github.com/larissa-acosta/ml-portfolio/tree/main/projects/legal-rag-pt) | *In progress:* LGPD, Marco Civil da Internet and CDC, with article-level citations |
+| [Portuguese RAG over Brazilian digital law](https://github.com/larissa-acosta/ml-portfolio/tree/main/projects/legal-rag-pt) | *In progress:* LGPD, Marco Civil da Internet and CDC. Retrieval evaluated on 57 questions (bge-m3 hit@5 0.98); [live retrieval demo](https://huggingface.co/spaces/larissaac/legal-rag-pt) |
 
 ## Tools
 
